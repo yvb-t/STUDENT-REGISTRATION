@@ -1,0 +1,12 @@
+{
+  "name": "student-registration-root",
+  "version": "1.0.0",
+  "description": "Student Card & Registration System",
+  "scripts": {
+    "dev":     "cd student-registration && npm run dev",
+    "build":   "cd student-registration && npm run build",
+    "preview": "cd student-registration && npm run preview",
+    "install-deps": "cd student-registration && npm install"
+  },
+  "private": true
+}

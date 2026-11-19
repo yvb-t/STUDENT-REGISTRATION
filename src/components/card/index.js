@@ -1,0 +1,5 @@
+export { default as StudentCard } from './StudentCard'
+export { default as Avatar }      from './Avatar'
+export { default as Barcode }     from './Barcode'
+export { default as Strip }       from './Strip'
+export { default as Field }       from './Field'

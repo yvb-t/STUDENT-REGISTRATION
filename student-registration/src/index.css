@@ -1,0 +1,5 @@
+/* index.css — minimal reset only, all app styles are in App.jsx */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { -webkit-font-smoothing: antialiased; }
+#root { min-height: 100vh; }

@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+student-registration/node_modules/
+
+# Build output
+dist/
+student-registration/dist/
+
+# Vite cache
+.vite/
+student-registration/.vite/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Stitch design source (large folder, optional)
+stitch_student_registration_portal/
